@@ -1,0 +1,5 @@
+streamlit
+instagrapi
+pandas
+apscheduler
+python-dotenv
